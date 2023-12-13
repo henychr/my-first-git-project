@@ -1,2 +1,3 @@
-# my-first-git-project
+# My first Git project
 Coding Bootcamp
+
