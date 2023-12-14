@@ -2,5 +2,5 @@
 Coding Bootcamp
 
 ahoj
-jak se mas
 
+nevim jak se mam
